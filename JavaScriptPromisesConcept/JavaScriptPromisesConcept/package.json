@@ -1,0 +1,11 @@
+{
+  "name": "promisesconcept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "dependencies": {
+    "typescript": "2.2.1"
+  },
+  "author": "",
+  "license": "ISC"
+}

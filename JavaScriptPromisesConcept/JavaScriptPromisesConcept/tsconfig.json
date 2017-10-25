@@ -1,0 +1,12 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "noImplicitAny": false,
+        "noEmitOnError": true,
+        "removeComments": false,
+        "sourceMap": true,
+        "inlineSources": true,
+        "target": "es5",
+        "outFile": "www/scripts/bundle.js"      
+    }
+}
